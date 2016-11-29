@@ -26,11 +26,11 @@ The first point of the line.
 
 #### x `Number`
 
-The X position of first point.
+The X position of first point (x - lowercase).
 
 #### y `Number`
 
-The Y position of first point.
+The Y position of first point (y - lowercase).
 
 ### to `Object`
 
@@ -38,11 +38,11 @@ The second point of the line.
 
 #### x `Number`
 
-The X position of second point.
+The X position of second point (x - lowercase).
 
 #### y `Number`
 
-The Y position of second point.
+The Y position of second point (y - lowercase).
 
 ## Fields
 
